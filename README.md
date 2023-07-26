@@ -16,6 +16,18 @@ You will see a menu like this.
 now you can start to play with this.
 
 
+### ** Note **
+
+Use the below command in case that you will need to modify the model on db to create it
+
+**Create a migration file to create the database model**
+* [ ] `dotnet ef migrations add InitialCreate`
+
+**update/create the database**
+* [ ] `dotnet ef database update`
+
+
+
 ## **Unit Test**
 
 Navigate under the TestTvShows folder and execute `dotnet test`, this commmand you can execute from CMD, Bash or PowerShell.
