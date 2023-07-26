@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TvShow\TvShow.csproj" />
+    <ProjectReference Include="..\TvShowConsole\TvShow.csproj" />
   </ItemGroup>
 
 </Project>
